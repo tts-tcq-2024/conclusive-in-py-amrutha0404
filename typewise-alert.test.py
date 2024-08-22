@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch
-from typewise_alert import (
+from typewise-alert import (
     classify_temperature_breach,
     check_and_alert,
     cooling_strategy_factory,
