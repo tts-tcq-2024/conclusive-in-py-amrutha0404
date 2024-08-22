@@ -7,9 +7,7 @@ from typewise_alert import (
     alert_strategy_factory,
     PassiveCooling,
     HiActiveCooling,
-    MedActiveCooling,
-    ControllerAlert,
-    EmailAlert
+    MedActiveCooling
 )
 
 class TypewiseAlertTest(unittest.TestCase):
